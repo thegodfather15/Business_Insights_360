@@ -206,11 +206,8 @@ In Home view, all the views button will be available. User will land on specific
 
 ![Executive.gif](https://github.com/thegodfather15/Business_Insights_360/blob/main/Resources/execview.jpg)
 
-## Products
 
-![Products](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Products%20View.gif)
-
-you can find the full report file here : [Report](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Report/360.pbix)
+you can find the full report file here : [Report](https://app.powerbi.com/view?r=eyJrIjoiNmE1MDY4OGQtOTdkNy00NTBmLTk3ZTUtMjAwZDZiZTM1OWY2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 
 ## Project Outcome
