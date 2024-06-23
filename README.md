@@ -6,7 +6,7 @@ AtliQ Hardware is growing rapidly in the recent years, and they have decided to 
 
 I worked on this project by following the Codebasics PowerBi Course, Link to the course is [here](https://codebasics.io/courses/power-bi-data-analysis-with-end-to-end-project)
 
-[Live Report Link](https://www.novypro.com/project/atliq-hardware-business-insights-360)
+[Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiNmE1MDY4OGQtOTdkNy00NTBmLTk3ZTUtMjAwZDZiZTM1OWY2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## Tech stacks
 
@@ -36,7 +36,7 @@ I worked on this project by following the Codebasics PowerBi Course, Link to the
 - Setting up personal gateway to set up the auto refresh of data
 - PowerBi App creation
 - Collaboration, workspace, access permissions in PowerBi services
-- And more 😅
+- And more 
 
 ## GitHub 
 
@@ -60,7 +60,7 @@ I worked on this project by following the Codebasics PowerBi Course, Link to the
 - Distributors
 - Consumer
 
-## Company’s back ground
+## Company’s background
 
 AltiQ hardware is a company which has grown vastly in the recent years, and opened business all over the globe. It is a company which sells, computer and computer accessories through three mediums/channel
 
@@ -185,26 +185,26 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Info Page
 
-![Info.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Info.gif)
+![Info.gif](https://github.com/thegodfather15/Business_Insights_360/blob/main/Resources/home.jpg)
 
 ## Finance View
 
-![Finace.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Finace.gif)
+![Finace.gif](https://github.com/thegodfather15/Business_Insights_360/blob/main/Resources/financeview.jpg)
 ## Sales View
 
-![Sales.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Sales.gif)
+![Sales.gif](https://github.com/thegodfather15/Business_Insights_360/blob/main/Resources/salesview.jpg)
 
 ## Marketing View
 
-![Marketing.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Marketing.gif)
+![Marketing.gif](https://github.com/thegodfather15/Business_Insights_360/blob/main/Resources/marketingview.jpg)
 
 ## Supply chain View
 
-![Supply chain.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/supply%20chain.gif)
+![Supply chain.gif](https://github.com/thegodfather15/Business_Insights_360/blob/main/Resources/supplychainview.jpg)
 
 ## Executive View
 
-![Executive.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Executive.gif)
+![Executive.gif](https://github.com/thegodfather15/Business_Insights_360/blob/main/Resources/execview.jpg)
 
 ## Products
 
